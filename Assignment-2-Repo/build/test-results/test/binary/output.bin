@@ -1,0 +1,8 @@
+5Blog: New post published -> Observer Pattern in Java
+8Alice is reading the new post: Observer Pattern in Java
+6Bob is reading the new post: Observer Pattern in Java
+'Blog: New post published -> First Post
+*Alice is reading the new post: First Post
+(Bob is reading the new post: First Post
+(Blog: New post published -> Second Post
++Alice is reading the new post: Second Post

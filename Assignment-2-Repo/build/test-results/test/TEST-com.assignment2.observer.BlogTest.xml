@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.assignment2.observer.BlogTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-02-18T07:29:42" hostname="MacBookPro.lan" time="0.045">
+  <properties/>
+  <testcase name="testRegisterAndNotify()" classname="com.assignment2.observer.BlogTest" time="0.039"/>
+  <testcase name="testRemoveObserver()" classname="com.assignment2.observer.BlogTest" time="0.002"/>
+  <system-out><![CDATA[Blog: New post published -> Observer Pattern in Java
+Alice is reading the new post: Observer Pattern in Java
+Bob is reading the new post: Observer Pattern in Java
+Blog: New post published -> First Post
+Alice is reading the new post: First Post
+Bob is reading the new post: First Post
+Blog: New post published -> Second Post
+Alice is reading the new post: Second Post
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
